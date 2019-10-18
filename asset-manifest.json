@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/friendsapp/static/css/main.4113b39d.chunk.css",
+    "main.js": "/friendsapp/static/js/main.96bd1a90.chunk.js",
+    "main.js.map": "/friendsapp/static/js/main.96bd1a90.chunk.js.map",
+    "runtime-main.js": "/friendsapp/static/js/runtime-main.857242d4.js",
+    "runtime-main.js.map": "/friendsapp/static/js/runtime-main.857242d4.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/friendsapp/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.2d2f3f6c.chunk.js": "/friendsapp/static/js/2.2d2f3f6c.chunk.js",
+    "static/js/2.2d2f3f6c.chunk.js.map": "/friendsapp/static/js/2.2d2f3f6c.chunk.js.map",
+    "index.html": "/friendsapp/index.html",
+    "precache-manifest.0e44789f13f522e5f99ce3a4816bae46.js": "/friendsapp/precache-manifest.0e44789f13f522e5f99ce3a4816bae46.js",
+    "service-worker.js": "/friendsapp/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/friendsapp/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.4113b39d.chunk.css.map": "/friendsapp/static/css/main.4113b39d.chunk.css.map",
+    "static/media/App.css": "/friendsapp/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.857242d4.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.2d2f3f6c.chunk.js",
+    "static/css/main.4113b39d.chunk.css",
+    "static/js/main.96bd1a90.chunk.js"
+  ]
+}
